@@ -1,5 +1,5 @@
 first line of text
-Second lina of text
+Second line of text
 Third line of text
 fourth line of text
 fifth line of text
