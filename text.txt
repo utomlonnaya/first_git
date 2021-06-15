@@ -8,5 +8,4 @@ seventh line of text
 eight line of text
 ninth line of text
 tenth line of text
-------------------
 
